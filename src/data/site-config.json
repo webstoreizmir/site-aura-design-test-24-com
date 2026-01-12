@@ -1,88 +1,119 @@
 {
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "Aura Interior Studio | Lüks Yaşam Alanları Tasarımı",
+    "description": "Aura Interior Studio: İstanbul ve Londra merkezli, ödüllü iç mimarlık ofisi. Lüks konut, otel ve ofis projelerinde modern, minimalist ve sürdürülebilir tasarımlar sunuyoruz. Kişiye özel butik çözümlerle hayallerinizi gerçeğe dönüştürün."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#A89A84",
+      "secondary": "#555555",
+      "background": "#F5F5DC",
+      "text": "#333333"
     },
     "fonts": {
       "heading": "Montserrat",
-      "body": "Inter"
+      "body": "Open Sans"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "luxury minimalist interior design living room natural light",
+    "about_keyword": "modern interior design studio awards",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "interior design concept development luxury",
+      "turnkey interior design project management",
+      "custom furniture design luxury apartment"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "Lüksü Yeniden Tanımlayın",
+      "subheadline": "Aura Interior Studio ile yaşam tarzınızı yansıtan, zamansız mekanlar yaratın.",
+      "ctaButtonText": "Ücretsiz Danışmanlık Alın"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Hakkımızda",
+      "description": "Aura Interior Studio, İstanbul ve Londra merkezli, ödüllü bir iç mimarlık ofisidir. 15 yılı aşkın süredir modern, minimalist ve sürdürülebilir lüks yaşam alanları tasarlıyoruz. Müşterilerimizin yaşam tarzını yansıtan, fonksiyonel ve estetik sanat eserleri yaratmayı hedefliyoruz. Doğal malzemeleri yenilikçi teknolojiyle harmanlayarak, zamansız mekanlar kurguluyoruz.",
       "stats": [
         {
           "label": "Tamamlanan Proje",
-          "value": "500+"
+          "value": "250+"
         },
         {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
-        },
-        {
-          "label": "Yıllık Deneyim",
-          "value": "12"
+          "label": "Uluslararası Ödül",
+          "value": "15+"
         }
       ]
     },
     "services": [
       {
-        "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
-        "icon": "💻"
+        "title": "Konsept Tasarım ve Projelendirme",
+        "description": "İhtiyaçlarınızı ve hayallerinizi anlıyor, size özel konsept tasarımlar ve detaylı projeler geliştiriyoruz. Her aşamada sizinle iş birliği yaparak, benzersiz mekanlar yaratıyoruz.",
+        "icon": "✨"
       },
       {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
+        "title": "Anahtar Teslim Uygulama",
+        "description": "Projenizin tüm uygulama süreçlerini, bütçe ve zamanlamaya %100 sadık kalarak yönetiyoruz. Deneyimli ekibimizle, en yüksek kalitede işçilik ve malzeme kullanarak, hayallerinizi gerçeğe dönüştürüyoruz.",
         "icon": "🚀"
       },
       {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
+        "title": "Özel Mobilya Tasarımı",
+        "description": "Mekanın ruhuna uygun, kişiye özel mobilya tasarımları yapıyoruz. Fonksiyonel ve estetik çözümlerle, yaşam alanlarınızı benzersiz kılıyoruz. Usta zanaatkarlarımız, her bir parçayı özenle üretiyor.",
+        "icon": "💼"
+      }
+    ],
+    "process": [
+      {
+        "step": "01",
+        "title": "Keşif ve Konsept Geliştirme",
+        "description": "İhtiyaçlarınızı ve beklentilerinizi detaylı bir şekilde analiz ediyoruz. Mekanın potansiyelini ortaya çıkaracak yaratıcı konseptler geliştiriyoruz. İlham panoları ve 3D görselleştirmelerle, tasarım sürecini somutlaştırıyoruz."
+      },
+      {
+        "step": "02",
+        "title": "Detaylı Projelendirme ve Bütçeleme",
+        "description": "Onaylanan konsept doğrultusunda, detaylı projeler hazırlıyoruz. Mimari çizimler, malzeme seçimleri ve teknik detaylarla, uygulamanın kusursuz bir şekilde gerçekleşmesini sağlıyoruz. Şeffaf bir bütçe sunarak, maliyet kontrolünü sağlıyoruz."
+      },
+      {
+        "step": "03",
+        "title": "Uygulama ve Teslim",
+        "description": "Projenin uygulama sürecini, deneyimli ekibimizle titizlikle yönetiyoruz. Kaliteli işçilik ve malzeme kullanarak, hayallerinizdeki mekanı gerçeğe dönüştürüyoruz. Zamanında ve eksiksiz teslimatla, memnuniyetinizi garanti ediyoruz."
+      }
+    ],
+    "faq": [
+      {
+        "question": "İç mimarlık projesi ne kadar sürer?",
+        "answer": "Proje süresi, projenin büyüklüğüne ve karmaşıklığına göre değişiklik göstermektedir. Ancak, projenin başlangıcından teslimine kadar geçen tüm süreçleri şeffaf bir şekilde planlıyor ve size düzenli olarak bilgi veriyoruz."
+      },
+      {
+        "question": "Bütçemi nasıl belirlemeliyim?",
+        "answer": "Bütçe belirleme konusunda size rehberlik ediyoruz. İhtiyaçlarınızı ve beklentilerinizi dikkate alarak, size özel bir bütçe planı oluşturuyoruz. Proje boyunca, bütçe kontrolünü sağlayarak, beklenmedik maliyetlerin önüne geçiyoruz."
+      },
+      {
+        "question": "Hangi tasarım stilinde uzmanlaşmışsınız?",
+        "answer": "Modern, minimalist ve sürdürülebilir lüks tasarım anlayışını benimsiyoruz. Müşterilerimizin kişisel tarzlarını ve ihtiyaçlarını göz önünde bulundurarak, onlara özel tasarımlar yaratıyoruz."
+      },
+      {
+        "question": "Referans projelerinizi görebilir miyim?",
+        "answer": "Web sitemizde ve ofisimizde tamamladığımız birçok projeye ait görselleri ve detayları inceleyebilirsiniz. Ayrıca, size referans müşterilerimizle iletişime geçme imkanı da sunabiliriz."
       }
     ],
     "testimonials": [
       {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
+        "name": "Berna Y.",
+        "role": "Ev Sahibi",
+        "comment": "Hayalimdeki evi gerçeğe dönüştürdüler. Sürecin her adımı çok profesyoneldi. Aura Interior Studio'yu herkese tavsiye ederim."
       },
       {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
+        "name": "Mert D.",
+        "role": "Şirket Sahibi",
+        "comment": "Ofisimizin havası tamamen değişti, çalışan verimliliğimiz arttı. Teşekkürler Aura! Kesinlikle tekrar çalışmak isteriz."
       }
     ],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "Bebek, Cevdet Paşa Cd. No:12, Beşiktaş/İstanbul",
+      "phone": "90 212 290 55 00",
+      "email": "cankavlak@gmail.com",
+      "map_query": "Beşiktaş İstanbul"
     }
   }
 }
